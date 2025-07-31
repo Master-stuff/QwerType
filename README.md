@@ -22,9 +22,12 @@ Coming soon!
 
 ## 📂 Project Structure
 
-azertype/
+azertype/ 
+
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 ## 🎯 How It Works
