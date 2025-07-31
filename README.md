@@ -1,1 +1,5 @@
-# NO sorry it works just perfect !
+# AzerType
+
+test your typing speed !
+
+learning project @ OPENCLASSROOMS (Javascript)
